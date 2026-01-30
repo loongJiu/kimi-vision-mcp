@@ -1,5 +1,5 @@
 {
-  "name": "@loong/kimi-vision-mcp",
+  "name": "@loongjiu/kimi-vision-mcp",
   "version": "1.0.0",
   "description": "MCP server for analyzing images using Kimi K2.5 vision model",
   "keywords": [
