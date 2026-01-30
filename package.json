@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/loongJiu/kimi-vision-mcp.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/loongJiu/kimi-vision-mcp/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/loongJiu/kimi-vision-mcp#readme",
   "scripts": {
     "start": "node index.js",
     "test": "KIMI_API_KEY=test node index.js"
