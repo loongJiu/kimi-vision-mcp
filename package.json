@@ -1,5 +1,5 @@
 {
-  "name": "kimi-vision-mcp",
+  "name": "@loong/kimi-vision-mcp",
   "version": "1.0.0",
   "description": "MCP server for analyzing images using Kimi K2.5 vision model",
   "keywords": [
@@ -16,6 +16,9 @@
   "main": "index.js",
   "bin": {
     "kimi-vision-mcp": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
